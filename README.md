@@ -9,7 +9,7 @@ The easiest way to use Google GAPI Auth with angularJS. This module use [Google 
 
 ## Installation
 
-Download the [latest release](https://github.com/maximepvrt/angular-google-gapi/releases)
+Download the [latest release](https://github.com/yvesroos/angular-gapi-auth/releases)
 
 ```html
 <script type="text/javascript" src="/angular-gapi-auth/dist/angular-gapi-auth.min.js"></script>
