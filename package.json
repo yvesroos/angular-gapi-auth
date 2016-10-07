@@ -1,0 +1,38 @@
+{
+  "name": "angular-gapi-auth",
+  "version": "0.0.1",
+  "description": "The easiest way to use Google GAPI Auth with angularJS",
+  "main": "dist/angular-gapi-auth.min.js",
+  "dependencies": {
+    "angular": "~1.x",
+    "gulp-concat": "^2.6.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^2.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "del": "^2.2.2"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yvesroos/angular-gapi-auth.git"
+  },
+  "keywords": [
+    "Angular",
+    "Google",
+    "GAPI",
+    "Auth"
+  ],
+  "author": "Yves Roos Diehl <yvesroos@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yvesroos/angular-gapi-auth/issues"
+  },
+  "homepage": "https://github.com/yvesroos/angular-gapi-auth#readme"
+}
